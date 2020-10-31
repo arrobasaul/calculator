@@ -1,7 +1,7 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
-a pocket calculator.
+a pocket calculator new.
 
 [![Build Status](https://demonttazz.visualstudio.com/PartsUnlimited/_apis/build/status/arrobasaul.calculator?branchName=master)](https://demonttazz.visualstudio.com/PartsUnlimited/_build/latest?definitionId=4&branchName=master)
 
